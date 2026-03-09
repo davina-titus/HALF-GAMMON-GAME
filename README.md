@@ -46,7 +46,7 @@ g++ -o halfgammon main.cpp
 ```
 
 ## Languages
-- **C++** (69%) / **C** (31%)
+- **C++** 
 
 ---
 *Built as part of CS coursework @ University of Illinois Chicago*
